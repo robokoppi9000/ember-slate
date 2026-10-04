@@ -1,0 +1,68 @@
+# Ember Slate — Alacritty theme (matches nvim/colors/ember-slate.lua)
+
+[colors.primary]
+background = "#0B0E14"
+foreground = "#FFFFFF"
+dim_foreground = "#8A96A3"
+
+[colors.cursor]
+text = "#0B0E14"
+cursor = "#F39F5A"
+
+[colors.vi_mode_cursor]
+text = "#0B0E14"
+cursor = "#FFC66D"
+
+[colors.selection]
+text = "CellForeground"
+background = "#38414F"
+
+[colors.search.matches]
+foreground = "#0B0E14"
+background = "#F39F5A"
+
+[colors.search.focused_match]
+foreground = "#0B0E14"
+background = "#FFC66D"
+
+[colors.footer_bar]
+foreground = "#FFFFFF"
+background = "#10141B"
+
+[colors.hints.start]
+foreground = "#0B0E14"
+background = "#F39F5A"
+
+[colors.hints.end]
+foreground = "#0B0E14"
+background = "#FFC66D"
+
+[colors.normal]
+black = "#1B212B"
+red = "#E5646D"
+green = "#A8D98C"
+yellow = "#FFC66D"
+blue = "#7EA6E0"
+magenta = "#AE445A"
+cyan = "#63D6D6"
+white = "#C5CDD6"
+
+[colors.bright]
+black = "#5C6773"
+red = "#EE8189"
+green = "#C3E8A8"
+yellow = "#FFD591"
+blue = "#9DBDEA"
+magenta = "#C9637A"
+cyan = "#8AE3E3"
+white = "#FFFFFF"
+
+[colors.dim]
+black = "#10141B"
+red = "#AE445A"
+green = "#7FA86A"
+yellow = "#C99D55"
+blue = "#5F7FAD"
+magenta = "#83344A"
+cyan = "#4BA3A3"
+white = "#8A96A3"
